@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Agent PDF Discovery System
 
 This project implements a multi-agent system using AutoGen to collaboratively search and download PDF files related to specific topics.
@@ -228,3 +229,6 @@ python pdf_finder_agents.py
 ## Note
 
 Make sure you have appropriate permissions and comply with website terms of service when downloading PDFs.
+=======
+# Multi-Agent-AI-System-for-Collaborative-Task-Completion
+>>>>>>> d90b21bcff5d7c59ded9228165c8a9482282022d

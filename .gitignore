@@ -36,3 +36,4 @@ env/
 pdf_downloads/
 *.pdf
 *.log
+.cache/
